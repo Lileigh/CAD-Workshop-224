@@ -1,0 +1,3 @@
+Add the solidworks templates to this folder on your computer
+
+C:\Program Files\SolidWorks\data\templates
